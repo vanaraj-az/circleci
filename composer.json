@@ -1,0 +1,10 @@
+{
+    "name": "assistanz/circleci",
+    "authors": [
+        {
+            "name": "Vanaraj  Az",
+            "email": "vanaraj-az@videspan.com"
+        }
+    ],
+    "require": {}
+}
